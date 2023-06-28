@@ -75,3 +75,8 @@ about_pic: about.png
 
 image_zoom:
   enable: true
+
+# MathJax Support
+mathjax:
+  enable: true
+  per_page: true
